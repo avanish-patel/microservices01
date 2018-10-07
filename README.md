@@ -1,5 +1,6 @@
 # Microservices
-## Microservice build for PCF uses
-* Eureka Server Service
-* Eureka Discovery Client on Quote and Symbol service
+## Microservice build for PCF using
+* Eureka Discovery Server Service
+* Eureka Discovery Client
+* Quote and Symbol service
 * Zuul for dynamic routing
